@@ -1,0 +1,16 @@
+{
+  "name": "onlinePajak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "Semmi Verian <semmivp1@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "27.0.4"
+  }
+}
